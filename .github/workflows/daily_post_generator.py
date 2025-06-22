@@ -71,7 +71,7 @@ def generate_blog_post(article):
         print("Error: AI did not return valid JSON. Cannot proceed.")
         return None
 
-# --- 4. Create the new HTML and update the JSON index with the corrected footer ---
+# --- 4. Create the new HTML and update the JSON index ---
 def create_new_post_files(post_data):
     post_html = post_data.get("post_html")
     category = post_data.get("category", "Tech News")
@@ -88,7 +88,7 @@ def create_new_post_files(post_data):
     filename = f"{slug}.html"
     filepath = BLOG_POSTS_DIR / filename
     
-    # This 'full_html_content' variable now contains the CORRECTED footer links for blog posts
+    # This 'full_html_content' variable now contains the FINAL footer with all three links
     full_html_content = f"""
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>{title} - CyberPulse</title><link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="[https://fonts.googleapis.com](https://fonts.googleapis.com)"><link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin><link href="[https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap](https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap)" rel="stylesheet"></head>
@@ -97,7 +97,8 @@ def create_new_post_files(post_data):
 <footer>
     <div class="footer-links">
         <a href="../index.html">Home</a> | 
-        <a href="../about.html">About</a>
+        <a href="../about.html">About</a> | 
+        <a href="../privacy.html">Privacy Policy</a>
     </div>
     <p>&copy; {datetime.datetime.now().year} CyberPulse. All rights reserved.</p>
 </footer></body></html>
