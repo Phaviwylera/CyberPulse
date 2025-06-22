@@ -1,110 +1,150 @@
-/* --- The "Newsroom" Theme for CyberPulse --- */
+/* --- New "Wired-Inspired" Theme for CyberPulse --- */
+
+/* --- 1. Global Styles & Typography --- */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    color: #222222;
-    line-height: 1.6;
+    color: #111111; /* Darker text for better contrast */
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
 }
 
+main {
+    max-width: 720px; /* A comfortable width for reading */
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+a {
+    color: #0066cc; /* A standard, readable blue for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* --- 2. Header & Footer --- */
 header {
-    text-align: left;
     padding: 20px 40px;
-    border-bottom: 2px solid #000000;
+    border-top: 3px solid #000000;
+    border-bottom: 1px solid #e0e0e0;
+    text-align: center;
     margin-bottom: 30px;
 }
 
 .logo {
-    font-size: 2.5em;
-    font-weight: 900;
+    font-size: 2.2em;
+    font-weight: 800;
     color: #000000;
     text-shadow: none;
-    letter-spacing: 0;
-    text-align: center;
+    letter-spacing: -1px;
 }
 .logo-link {
     text-decoration: none;
 }
+.logo-link:hover {
+    text-decoration: none;
+}
 
 .tagline {
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
+    font-family: serif;
+    font-style: normal;
     font-size: 1.1em;
     color: #666666;
-    margin-top: 5px;
+    margin-top: 2px;
+}
+
+footer {
     text-align: center;
+    padding: 30px 20px;
+    margin-top: 60px;
+    background-color: #ffffff;
+    border-top: 1px solid #e0e0e0;
+    font-size: 0.9em;
+    color: #555555;
 }
 
-main {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 0 20px;
+.footer-links {
+    margin-bottom: 15px;
 }
-.post-content {
-    line-height: 1.8;
+.footer-links a {
+    color: #111;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+}
+.footer-links a:hover {
+    text-decoration: underline;
 }
 
+
+/* --- 3. Homepage Post Listings --- */
 .post-link {
     display: block;
-    padding: 25px 0;
+    padding: 30px 0;
     border-bottom: 1px solid #e0e0e0;
     text-decoration: none;
-    color: #222222;
-    transition: background-color 0.2s;
+    color: #111111;
 }
 
-.post-link:hover {
-    background-color: #f9f9f9;
+.post-link:hover h2 {
+    text-decoration: underline;
+    color: #000;
 }
 
 .post-link h2 {
     margin: 0 0 8px;
     color: #111111;
-    font-size: 1.8em;
+    font-size: 1.7em;
     font-weight: 700;
     line-height: 1.2;
 }
 
 .post-link p {
     margin: 0;
-    font-size: 1em;
+    font-size: 1.1em;
     color: #555555;
+    font-family: serif; /* Use a serif font for summaries for a classic feel */
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    margin-top: 50px;
-    background-color: #f1f1f1;
-    border-top: 1px solid #dddddd;
-    font-size: 0.9em;
-    color: #555555;
-}
-
-/* --- Category Tag Styles --- */
 .category-tag {
     display: inline-block;
-    background-color: #0d6efd; /* A standard blue for light themes */
-    color: white;
-    padding: 4px 10px;
-    border-radius: 4px;
-    font-size: 0.8em;
-    font-weight: bold;
-    margin-bottom: 12px;
+    background-color: transparent;
+    color: #0066cc;
+    padding: 0;
+    border-radius: 0;
+    font-size: 0.9em;
+    font-weight: 600;
+    margin-bottom: 10px;
     text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.category-tag:hover {
+    text-decoration: underline;
 }
 
-/* --- Footer Links Style --- */
-.footer-links {
-    margin-bottom: 15px;
+
+/* --- 4. Individual Blog Post & Static Pages --- */
+.post-content {
+    font-size: 1.1em;
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Classic, highly readable font for articles */
 }
-.footer-links a {
-    color: #555555;
-    text-decoration: none;
-    margin: 0 10px;
-    font-weight: bold;
+
+.post-content h1 {
+    font-family: system-ui, -apple-system, sans-serif; /* Use sans-serif for headlines */
+    font-size: 2.8em;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    font-weight: 800;
 }
-.footer-links a:hover {
-    text-decoration: underline;
+
+.post-content p {
+    margin-bottom: 1.5em;
+}
+
+.post-content b, .post-content strong {
+    font-weight: 700;
 }
