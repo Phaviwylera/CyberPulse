@@ -85,7 +85,13 @@ def create_new_post_files(post_data):
 <link rel="preconnect" href="[https://fonts.googleapis.com](https://fonts.googleapis.com)"><link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin><link href="[https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap](https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap)" rel="stylesheet"></head>
 <body><header><a href="../index.html" class="logo-link"><div class="logo">CyberPulse</div></a><p class="tagline">// The Beat of the Digital World //</p></header>
 <main class="post-content">{post_html}</main>
-<footer><p>&copy; {datetime.datetime.now().year} CyberPulse. All rights reserved.</p></footer></body></html>
+<footer>
+    <div class="footer-links">
+        <a href="../index.html">Home</a> | 
+        <a href="about.html">About</a>
+    </div>
+    <p>&copy; {datetime.datetime.now().year} CyberPulse. All rights reserved.</p>
+</footer></body></html>
 """
     BLOG_POSTS_DIR.mkdir(exist_ok=True)
     filepath.write_text(full_html_content, encoding='utf-8')
