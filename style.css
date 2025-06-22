@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 1px solid #30363d;
+}
+
+.logo {
+    font-size: 3em;
+    font-weight: 700;
+    color: #58a6ff;
+    text-shadow: 0 0 5px #58a6ff, 0 0 10px #58a6ff;
+    letter-spacing: 2px;
+}
+
+.tagline {
+    font-size: 1em;
+    color: #8b949e;
+    margin-top: 5px;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.post-link {
+    display: block;
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #c9d1d9;
+    border-radius: 6px;
+    transition: border-color 0.2s, transform 0.2s;
+}
+
+.post-link:hover {
+    border-color: #58a6ff;
+    transform: translateY(-3px);
+}
+
+.post-link h2 {
+    margin: 0 0 10px;
+    color: #58a6ff;
+    font-size: 1.5em;
+}
+
+.post-link p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #8b949e;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    border-top: 1px solid #30363d;
+    font-size: 0.8em;
+    color: #8b949e;
+}
