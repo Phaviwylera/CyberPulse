@@ -23,6 +23,9 @@ header {
     letter-spacing: 0;
     text-align: center;
 }
+.logo-link {
+    text-decoration: none;
+}
 
 .tagline {
     font-family: 'Times New Roman', Times, serif;
@@ -37,6 +40,9 @@ main {
     max-width: 800px;
     margin: 40px auto;
     padding: 0 20px;
+}
+.post-content {
+    line-height: 1.8;
 }
 
 .post-link {
@@ -87,4 +93,18 @@ footer {
     font-weight: bold;
     margin-bottom: 12px;
     text-transform: uppercase;
+}
+
+/* --- Footer Links Style --- */
+.footer-links {
+    margin-bottom: 15px;
+}
+.footer-links a {
+    color: #555555;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+.footer-links a:hover {
+    text-decoration: underline;
 }
