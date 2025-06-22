@@ -76,3 +76,21 @@ footer {
     font-size: 0.9em;
     color: #555555;
 }
+/* --- New Category Tag Styles --- */
+.category-tag {
+    display: inline-block;
+    background-color: #58a6ff;
+    color: #ffffff;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+}
+
+/* Make category tags in the "Newsroom" theme look good */
+body:not(:has(header > .tagline[style*="dark"])) .category-tag {
+    background-color: #0d6efd; /* A standard blue for light themes */
+    color: white;
+}
