@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 import re
 
+# --- Configuration ---
 RSS_FEEDS = [
     'https://techcrunch.com/feed/',
     'https://www.wired.com/feed/category/technology/latest/rss',
@@ -15,9 +16,11 @@ API_KEY = os.getenv('GEMINI_API_KEY')
 BLOG_INDEX_PATH = Path("blog-index.json")
 BLOG_POSTS_DIR = Path("blog")
 
+# --- 1. Configure the AI ---
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
+# --- 2. Fetch latest news from RSS feeds ---
 def get_latest_article():
     print("Fetching articles from RSS feeds...")
     latest_article = None
@@ -36,6 +39,7 @@ def get_latest_article():
         return { "title": latest_article.title, "summary": latest_article.summary, "link": latest_article.link }
     return None
 
+# --- 3. Use AI to generate a new blog post AND a category ---
 def generate_blog_post(article):
     print("Generating new blog post with AI...")
     prompt = f"""
@@ -53,6 +57,7 @@ def generate_blog_post(article):
     Original Article Summary: {article['summary']}
     Original Article Link: {article['link']}
     """
+    
     response = model.generate_content(prompt)
     clean_response_text = response.text.strip().replace("```json", "").replace("```", "")
     try:
@@ -66,6 +71,7 @@ def generate_blog_post(article):
         print("Error: AI did not return valid JSON. Cannot proceed.")
         return None
 
+# --- 4. Create the new HTML and update the JSON index with the corrected footer ---
 def create_new_post_files(post_data):
     post_html = post_data.get("post_html")
     category = post_data.get("category", "Tech News")
@@ -77,9 +83,12 @@ def create_new_post_files(post_data):
         title = h1_element.text if h1_element is not None else "New CyberPulse Post"
     except Exception:
         title = "New CyberPulse Post"
+
     slug = title.lower().replace(' ', '-').replace('?', '').replace(':', '').replace("'", "")[:50]
     filename = f"{slug}.html"
     filepath = BLOG_POSTS_DIR / filename
+    
+    # This 'full_html_content' variable now contains the CORRECTED footer links for blog posts
     full_html_content = f"""
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>{title} - CyberPulse</title><link rel="stylesheet" href="../style.css">
 <link rel="preconnect" href="[https://fonts.googleapis.com](https://fonts.googleapis.com)"><link rel="preconnect" href="[https://fonts.gstatic.com](https://fonts.gstatic.com)" crossorigin><link href="[https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap](https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap)" rel="stylesheet"></head>
@@ -88,7 +97,7 @@ def create_new_post_files(post_data):
 <footer>
     <div class="footer-links">
         <a href="../index.html">Home</a> | 
-        <a href="about.html">About</a>
+        <a href="../about.html">About</a>
     </div>
     <p>&copy; {datetime.datetime.now().year} CyberPulse. All rights reserved.</p>
 </footer></body></html>
@@ -96,17 +105,22 @@ def create_new_post_files(post_data):
     BLOG_POSTS_DIR.mkdir(exist_ok=True)
     filepath.write_text(full_html_content, encoding='utf-8')
     print(f"Created new post file: {filepath}")
+
     summary = "A new dispatch from the digital frontier. Read the full post..."
     new_entry = { "title": title, "summary": summary, "url": f"blog/{filename}", "category": category }
+    
     current_index = []
     if BLOG_INDEX_PATH.exists():
         with open(BLOG_INDEX_PATH, 'r', encoding='utf-8') as f:
             current_index = json.load(f)
+    
     current_index.insert(0, new_entry)
     with open(BLOG_INDEX_PATH, 'w', encoding='utf-8') as f:
         json.dump(current_index, f, indent=4)
     print(f"Updated blog index: {BLOG_INDEX_PATH}")
 
+
+# --- Main Execution ---
 if __name__ == "__main__":
     latest_article_data = get_latest_article()
     if latest_article_data and API_KEY:
