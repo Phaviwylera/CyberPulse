@@ -148,3 +148,23 @@ footer {
 .post-content b, .post-content strong {
     font-weight: 700;
 }
+/* --- 5. Search Bar Styles --- */
+.search-container {
+    margin-bottom: 40px;
+}
+
+#search-input {
+    width: 100%;
+    padding: 12px 15px;
+    font-size: 1.1em;
+    font-family: system-ui, -apple-system, sans-serif;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Important for padding and width */
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: #0066cc;
+    box-shadow: 0 0 5px rgba(0, 102, 204, 0.5);
+}
