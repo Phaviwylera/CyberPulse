@@ -4,9 +4,13 @@ on:
   # This allows you to run the action manually from the Actions tab on GitHub.
   workflow_dispatch:
   
-  # This sets the schedule. It will run automatically every day at 8:00 AM IST.
+  # This sets the schedule. It will run automatically every day at 8:00 AM IST (2:30 AM UTC).
   schedule:
     - cron: '30 2 * * *'
+
+# This new block grants the necessary permission for the action to push code.
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
