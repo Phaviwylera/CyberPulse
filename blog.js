@@ -1,3 +1,5 @@
+// In your main cyberpulse folder, in blog.js
+
 document.addEventListener('DOMContentLoaded', () => {
     const postContainer = document.getElementById('post-list-container');
 
@@ -11,7 +13,13 @@ document.addEventListener('DOMContentLoaded', () => {
             
             let allPostsHTML = '';
             posts.forEach(post => {
-                const categoryTag = post.category ? `<span class="category-tag">${post.category}</span>` : '';
+                let categoryTag = '';
+                // **NEW**: If a category exists, make it a clickable link
+                if (post.category) {
+                    const categorySlug = post.category.toLowerCase().replace(' ', '-');
+                    const categoryUrl = `category-${categorySlug}.html`;
+                    categoryTag = `<a href="${categoryUrl}" class="category-tag">${post.category}</a>`;
+                }
 
                 allPostsHTML += `
                     <a href="${post.url}" class="post-link">
