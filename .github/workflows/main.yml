@@ -36,4 +36,5 @@ jobs:
         with:
           commit_message: "feat: Add new daily automated post"
           branch: main
-          file_pattern: blog/*.html blog-index.json
+          # **UPDATED** to include the new category pages
+          file_pattern: "*.html blog/*.html blog-index.json"
