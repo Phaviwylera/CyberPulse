@@ -1,5 +1,3 @@
-// In your main cyberpulse folder, in blog.js
-
 document.addEventListener('DOMContentLoaded', () => {
     const postContainer = document.getElementById('post-list-container');
 
@@ -13,7 +11,6 @@ document.addEventListener('DOMContentLoaded', () => {
             
             let allPostsHTML = '';
             posts.forEach(post => {
-                // Check if category exists, provide a default if not
                 const categoryTag = post.category ? `<span class="category-tag">${post.category}</span>` : '';
 
                 allPostsHTML += `

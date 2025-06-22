@@ -1,5 +1,4 @@
-/* --- The New "Newsroom" Theme for CyberPulse --- */
-
+/* --- The "Newsroom" Theme for CyberPulse --- */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     margin: 0;
@@ -20,7 +19,7 @@ header {
     font-size: 2.5em;
     font-weight: 900;
     color: #000000;
-    text-shadow: none; /* Remove the old glow effect */
+    text-shadow: none;
     letter-spacing: 0;
     text-align: center;
 }
@@ -76,21 +75,16 @@ footer {
     font-size: 0.9em;
     color: #555555;
 }
-/* --- New Category Tag Styles --- */
+
+/* --- Category Tag Styles --- */
 .category-tag {
     display: inline-block;
-    background-color: #58a6ff;
-    color: #ffffff;
+    background-color: #0d6efd; /* A standard blue for light themes */
+    color: white;
     padding: 4px 10px;
-    border-radius: 15px;
+    border-radius: 4px;
     font-size: 0.8em;
     font-weight: bold;
     margin-bottom: 12px;
     text-transform: uppercase;
-}
-
-/* Make category tags in the "Newsroom" theme look good */
-body:not(:has(header > .tagline[style*="dark"])) .category-tag {
-    background-color: #0d6efd; /* A standard blue for light themes */
-    color: white;
 }
