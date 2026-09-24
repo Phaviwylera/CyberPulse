@@ -1,578 +1,264 @@
 [
     {
         "title": "AI's Ethical Tightrope: Navigating Bias in Facial Recognition",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The recent advancements in artificial intelligence (AI), particularly in facial recognition technology, have sparked both excitement and apprehension. While…",
         "url": "blog/ais-ethical-tightrope-navigating-bias-in-facial-re.html",
-        "category": "AI"
+        "category": "AI",
+        "date": "2025-09-25T09:00:00+00:00",
+        "tags": [
+            "AI safety",
+            "facial recognition",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, and the latest threat isn't just another virus or malware; it's the sophisticated use of Artificial…",
         "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-24T09:00:00+00:00",
+        "tags": [
+            "phishing",
+            "security"
+        ],
+        "readingTime": 2
     },
     {
         "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The digital world is constantly evolving, and so are the methods used by cybercriminals. We've seen a significant shift in recent years, with artificial…",
         "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-23T09:00:00+00:00",
+        "tags": [
+            "phishing",
+            "security"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Drug Discovery: A Revolution in Healthcare?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The pharmaceutical industry is notoriously slow and expensive. Developing a new drug can take over a decade and cost billions of dollars. But what if we…",
         "url": "blog/ai-powered-drug-discovery-a-revolution-in-healthca.html",
-        "category": "AI"
+        "category": "AI",
+        "date": "2025-09-22T09:00:00+00:00",
+        "tags": [
+            "healthcare AI",
+            "AI safety",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Misinformation Campaigns: A Growing Threat",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The digital landscape is increasingly becoming a battleground for misinformation, and recent advancements in artificial intelligence are exacerbating the…",
         "url": "blog/ai-powered-misinformation-campaigns-a-growing-thre.html",
-        "category": "AI"
+        "category": "AI",
+        "date": "2025-09-21T09:00:00+00:00",
+        "tags": [
+            "misinformation",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Tool Promises to Detect Deepfakes With Unprecedented Accuracy",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The fight against deepfakes is constantly evolving, with malicious actors employing increasingly sophisticated techniques to create convincing but fabricated…",
         "url": "blog/ai-powered-tool-promises-to-detect-deepfakes-with-.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The Next Frontier of Cybercrime?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-next-frontier-of-cyb.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "AI",
+        "date": "2025-09-20T09:00:00+00:00",
+        "tags": [
+            "deepfakes",
+            "disinformation defence",
+            "misinformation",
+            "artificial intelligence"
+        ],
+        "readingTime": 2
     },
     {
         "title": "AI's Latest Leap: Predicting Cyberattacks Before They Happen",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of detecting and responding to cyberattacks are…",
         "url": "blog/ais-latest-leap-predicting-cyberattacks-before-the.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-of-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-19T09:00:00+00:00",
+        "tags": [
+            "threat detection",
+            "data breaches",
+            "security"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI's Growing Pains: Bias in Algorithms and the Urgent Need for Fairness",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "Artificial intelligence is rapidly transforming our world, automating tasks, making predictions, and even influencing decisions that impact our lives. But…",
         "url": "blog/ais-growing-pains-bias-in-algorithms-and-the-urgen.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The Next Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-next-frontier-of-cyb.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "AI",
+        "date": "2025-09-18T09:00:00+00:00",
+        "tags": [
+            "AI safety",
+            "artificial intelligence"
+        ],
+        "readingTime": 2
     },
     {
         "title": "AI-Powered Phishing Scams: The Next Evolution of Online Threats",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The digital landscape is constantly evolving, and so are the threats we face. While we've become accustomed to battling traditional phishing scams, a new…",
         "url": "blog/ai-powered-phishing-scams-the-next-evolution-of-on.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-17T09:00:00+00:00",
+        "tags": [
+            "phishing",
+            "security"
+        ],
+        "readingTime": 2
     },
     {
         "title": "AI Learns to Spot Fake News: A Giant Leap for Trustworthy Information",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The fight against misinformation is an ongoing battle, and the weapons are constantly evolving. While fact-checkers and media literacy initiatives play a…",
         "url": "blog/ai-learns-to-spot-fake-news-a-giant-leap-for-trust.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI's Growing Pains:  Bias in Algorithms and the Urgent Need for Ethical Frameworks",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ais-growing-pains--bias-in-algorithms-and-the-urge.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-of-c.html",
-        "category": "Cybersecurity"
+        "category": "AI",
+        "date": "2025-09-16T09:00:00+00:00",
+        "tags": [
+            "misinformation",
+            "disinformation defence",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Malware Detection: The Future of Cybersecurity?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of malware detection are often playing catch-up…",
         "url": "blog/ai-powered-malware-detection-the-future-of-cyberse.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-15T09:00:00+00:00",
+        "tags": [
+            "malware",
+            "security"
+        ],
+        "readingTime": 2
     },
     {
         "title": "AI-Powered Phishing Attacks: The Next Generation of Cyber Threats",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, and the latest threat on the horizon is a particularly insidious one: AI-powered phishing attacks. Recent…",
         "url": "blog/ai-powered-phishing-attacks-the-next-generation-of.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier of Cybercrime?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-of-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-14T09:00:00+00:00",
+        "tags": [
+            "phishing",
+            "security"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI's Latest Feat: Predicting Volcanic Eruptions",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "Artificial intelligence is rapidly evolving, moving beyond simple pattern recognition to tackle some of humanity’s most pressing challenges. One such…",
         "url": "blog/ais-latest-feat-predicting-volcanic-eruptions.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-of-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI's Growing Pains:  Bias in Algorithms and the Urgent Need for Ethical Development",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ais-growing-pains--bias-in-algorithms-and-the-urge.html",
-        "category": "AI"
+        "category": "Science",
+        "date": "2025-09-13T09:00:00+00:00",
+        "tags": [
+            "science",
+            "research"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Chatbots: The New Frontier of Customer Service Deception?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The rise of AI chatbots has revolutionized customer service, offering businesses a seemingly cost-effective and readily available solution to handle customer…",
         "url": "blog/ai-powered-chatbots-the-new-frontier-of-customer-s.html",
-        "category": "AI"
+        "category": "AI",
+        "date": "2025-09-12T09:00:00+00:00",
+        "tags": [
+            "chatbots",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier in Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-in-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier in Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-in-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Drug Discovery Accelerates:  A Breakthrough in Fighting Cancer?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "title": "AI-Powered Drug Discovery Accelerates: A Breakthrough in Fighting Cancer?",
+        "summary": "The race to cure cancer has received a significant boost thanks to the burgeoning field of artificial intelligence. Recent breakthroughs in AI-powered drug…",
         "url": "blog/ai-powered-drug-discovery-accelerates--a-breakthro.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier in Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-in-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Scams: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-scams-the-new-frontier-of-cybe.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Evolving Threat Landscape",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-evolving-threat-la.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-of-c.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The Next Frontier in Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-next-frontier-in-c.html",
-        "category": "Cybersecurity"
+        "category": "AI",
+        "date": "2025-09-11T09:00:00+00:00",
+        "tags": [
+            "healthcare AI",
+            "AI safety",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Tools Detect and Mitigate Cybersecurity Threats in Real-Time",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional security measures often struggle to keep pace, leaving…",
         "url": "blog/ai-powered-tools-detect-and-mitigate-cybersecurity.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-10T09:00:00+00:00",
+        "tags": [
+            "security"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI-Powered Misinformation Detection: A Double-Edged Sword?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The rapid advancement of artificial intelligence (AI) brings with it a plethora of benefits, revolutionizing industries and simplifying our daily lives.…",
         "url": "blog/ai-powered-misinformation-detection-a-double-edged.html",
-        "category": "AI"
+        "category": "AI",
+        "date": "2025-09-09T09:00:00+00:00",
+        "tags": [
+            "misinformation",
+            "disinformation defence",
+            "artificial intelligence"
+        ],
+        "readingTime": 1
     },
     {
         "title": "AI's New Frontier: Predicting Cyberattacks Before They Happen",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of detection often lag behind, leaving organizations…",
         "url": "blog/ais-new-frontier-predicting-cyberattacks-before-th.html",
-        "category": "AI"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
-    },
-    {
-        "title": "AI-Powered Phishing Attacks: The New Frontier of Cybercrime",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
-        "url": "blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html",
-        "category": "Cybersecurity"
+        "category": "Cybersecurity",
+        "date": "2025-09-08T09:00:00+00:00",
+        "tags": [
+            "threat detection",
+            "machine learning",
+            "security"
+        ],
+        "readingTime": 1
     },
     {
         "title": "Europe's Tech Dependence: A Growing Concern?",
-        "summary": "A new dispatch from the digital frontier. Read the full post...",
+        "summary": "A recent report in The New York Times has sparked a wave of discussion across Europe. The core issue? A growing unease among European leaders regarding their…",
         "url": "blog/europes-tech-dependence-a-growing-concern.html",
-        "category": "Policy"
+        "category": "Policy",
+        "date": "2025-09-07T09:00:00+00:00",
+        "tags": [
+            "EU tech",
+            "tech policy"
+        ],
+        "readingTime": 1
+    },
+    {
+        "title": "The Digital Iron Curtain: Europe's Tech Sovereignty Scramble",
+        "summary": "The whispers have become a roar. Across the digital battlefields of Europe, a chilling realization dawns: dependence on American tech giants isn't just a…",
+        "url": "blog/the-digital-iron-curtain-europes-tech-sovereignty-.html",
+        "category": "Policy",
+        "date": "2025-09-06T09:00:00+00:00",
+        "tags": [
+            "EU tech",
+            "critical infrastructure",
+            "regulation",
+            "tech policy"
+        ],
+        "readingTime": 1
+    },
+    {
+        "title": "The Great Tech Divergence: Europe's Digital Defiance",
+        "summary": "The whispers are turning into a roar. For years, Europe has hummed along to the tune of American tech giants, a comfortable, if slightly unsettling, melody.…",
+        "url": "blog/the-great-tech-divergence-europes-digital-defiance.html",
+        "category": "Policy",
+        "date": "2025-09-05T09:00:00+00:00",
+        "tags": [
+            "EU tech",
+            "tech policy"
+        ],
+        "readingTime": 1
     }
 ]

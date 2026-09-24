@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CyberPulse — The Beat of the Digital World</title>
+    <link>https://cyberpulse24.netlify.app</link>
+    <description>CyberPulse is a daily dispatch on cybersecurity, AI and technology policy — short, sharp briefings on the threats, tools and rules shaping the digital world.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cyberpulse24.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <image><url>https://cyberpulse24.netlify.app/assets/og-default.jpg</url><title>CyberPulse</title><link>https://cyberpulse24.netlify.app</link></image>
+    <item>
+      <title>AI's Ethical Tightrope: Navigating Bias in Facial Recognition</title>
+      <link>https://cyberpulse24.netlify.app/blog/ais-ethical-tightrope-navigating-bias-in-facial-re.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ais-ethical-tightrope-navigating-bias-in-facial-re.html</guid>
+      <pubDate>Thu, 25 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The recent advancements in artificial intelligence (AI), particularly in facial recognition technology, have sparked both excitement and apprehension. While…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Phishing Attacks: The New Frontier of Cybercrime</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-new-frontier-of-cy.html</guid>
+      <pubDate>Wed, 24 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, and the latest threat isn't just another virus or malware; it's the sophisticated use of Artificial…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Phishing Attacks: The Evolving Threat Landscape</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-evolving-threat-la.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-evolving-threat-la.html</guid>
+      <pubDate>Tue, 23 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The digital world is constantly evolving, and so are the methods used by cybercriminals. We've seen a significant shift in recent years, with artificial…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Drug Discovery: A Revolution in Healthcare?</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-drug-discovery-a-revolution-in-healthca.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-drug-discovery-a-revolution-in-healthca.html</guid>
+      <pubDate>Mon, 22 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The pharmaceutical industry is notoriously slow and expensive. Developing a new drug can take over a decade and cost billions of dollars. But what if we…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Misinformation Campaigns: A Growing Threat</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-misinformation-campaigns-a-growing-thre.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-misinformation-campaigns-a-growing-thre.html</guid>
+      <pubDate>Sun, 21 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The digital landscape is increasingly becoming a battleground for misinformation, and recent advancements in artificial intelligence are exacerbating the…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Tool Promises to Detect Deepfakes With Unprecedented Accuracy</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-tool-promises-to-detect-deepfakes-with-.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-tool-promises-to-detect-deepfakes-with-.html</guid>
+      <pubDate>Sat, 20 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The fight against deepfakes is constantly evolving, with malicious actors employing increasingly sophisticated techniques to create convincing but fabricated…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI's Latest Leap: Predicting Cyberattacks Before They Happen</title>
+      <link>https://cyberpulse24.netlify.app/blog/ais-latest-leap-predicting-cyberattacks-before-the.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ais-latest-leap-predicting-cyberattacks-before-the.html</guid>
+      <pubDate>Fri, 19 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of detecting and responding to cyberattacks are…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI's Growing Pains: Bias in Algorithms and the Urgent Need for Fairness</title>
+      <link>https://cyberpulse24.netlify.app/blog/ais-growing-pains-bias-in-algorithms-and-the-urgen.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ais-growing-pains-bias-in-algorithms-and-the-urgen.html</guid>
+      <pubDate>Thu, 18 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>Artificial intelligence is rapidly transforming our world, automating tasks, making predictions, and even influencing decisions that impact our lives. But…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Phishing Scams: The Next Evolution of Online Threats</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-phishing-scams-the-next-evolution-of-on.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-phishing-scams-the-next-evolution-of-on.html</guid>
+      <pubDate>Wed, 17 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The digital landscape is constantly evolving, and so are the threats we face. While we've become accustomed to battling traditional phishing scams, a new…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI Learns to Spot Fake News: A Giant Leap for Trustworthy Information</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-learns-to-spot-fake-news-a-giant-leap-for-trust.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-learns-to-spot-fake-news-a-giant-leap-for-trust.html</guid>
+      <pubDate>Tue, 16 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The fight against misinformation is an ongoing battle, and the weapons are constantly evolving. While fact-checkers and media literacy initiatives play a…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Malware Detection: The Future of Cybersecurity?</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-malware-detection-the-future-of-cyberse.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-malware-detection-the-future-of-cyberse.html</guid>
+      <pubDate>Mon, 15 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of malware detection are often playing catch-up…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Phishing Attacks: The Next Generation of Cyber Threats</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-next-generation-of.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-phishing-attacks-the-next-generation-of.html</guid>
+      <pubDate>Sun, 14 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, and the latest threat on the horizon is a particularly insidious one: AI-powered phishing attacks. Recent…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI's Latest Feat: Predicting Volcanic Eruptions</title>
+      <link>https://cyberpulse24.netlify.app/blog/ais-latest-feat-predicting-volcanic-eruptions.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ais-latest-feat-predicting-volcanic-eruptions.html</guid>
+      <pubDate>Sat, 13 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Science</category>
+      <description>Artificial intelligence is rapidly evolving, moving beyond simple pattern recognition to tackle some of humanity’s most pressing challenges. One such…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Chatbots: The New Frontier of Customer Service Deception?</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-chatbots-the-new-frontier-of-customer-s.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-chatbots-the-new-frontier-of-customer-s.html</guid>
+      <pubDate>Fri, 12 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The rise of AI chatbots has revolutionized customer service, offering businesses a seemingly cost-effective and readily available solution to handle customer…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Drug Discovery Accelerates: A Breakthrough in Fighting Cancer?</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-drug-discovery-accelerates--a-breakthro.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-drug-discovery-accelerates--a-breakthro.html</guid>
+      <pubDate>Thu, 11 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The race to cure cancer has received a significant boost thanks to the burgeoning field of artificial intelligence. Recent breakthroughs in AI-powered drug…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Tools Detect and Mitigate Cybersecurity Threats in Real-Time</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-tools-detect-and-mitigate-cybersecurity.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-tools-detect-and-mitigate-cybersecurity.html</guid>
+      <pubDate>Wed, 10 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional security measures often struggle to keep pace, leaving…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI-Powered Misinformation Detection: A Double-Edged Sword?</title>
+      <link>https://cyberpulse24.netlify.app/blog/ai-powered-misinformation-detection-a-double-edged.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ai-powered-misinformation-detection-a-double-edged.html</guid>
+      <pubDate>Tue, 09 Sep 2025 09:00:00 +0000</pubDate>
+      <category>AI</category>
+      <description>The rapid advancement of artificial intelligence (AI) brings with it a plethora of benefits, revolutionizing industries and simplifying our daily lives.…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>AI's New Frontier: Predicting Cyberattacks Before They Happen</title>
+      <link>https://cyberpulse24.netlify.app/blog/ais-new-frontier-predicting-cyberattacks-before-th.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/ais-new-frontier-predicting-cyberattacks-before-th.html</guid>
+      <pubDate>Mon, 08 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <description>The cybersecurity landscape is constantly evolving, with new threats emerging daily. Traditional methods of detection often lag behind, leaving organizations…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>Europe's Tech Dependence: A Growing Concern?</title>
+      <link>https://cyberpulse24.netlify.app/blog/europes-tech-dependence-a-growing-concern.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/europes-tech-dependence-a-growing-concern.html</guid>
+      <pubDate>Sun, 07 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>A recent report in The New York Times has sparked a wave of discussion across Europe. The core issue? A growing unease among European leaders regarding their…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>The Digital Iron Curtain: Europe's Tech Sovereignty Scramble</title>
+      <link>https://cyberpulse24.netlify.app/blog/the-digital-iron-curtain-europes-tech-sovereignty-.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/the-digital-iron-curtain-europes-tech-sovereignty-.html</guid>
+      <pubDate>Sat, 06 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>The whispers have become a roar. Across the digital battlefields of Europe, a chilling realization dawns: dependence on American tech giants isn't just a…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+    <item>
+      <title>The Great Tech Divergence: Europe's Digital Defiance</title>
+      <link>https://cyberpulse24.netlify.app/blog/the-great-tech-divergence-europes-digital-defiance.html</link>
+      <guid isPermaLink="true">https://cyberpulse24.netlify.app/blog/the-great-tech-divergence-europes-digital-defiance.html</guid>
+      <pubDate>Fri, 05 Sep 2025 09:00:00 +0000</pubDate>
+      <category>Policy</category>
+      <description>The whispers are turning into a roar. For years, Europe has hummed along to the tune of American tech giants, a comfortable, if slightly unsettling, melody.…</description>
+      <dc:creator>CyberPulse</dc:creator>
+    </item>
+  </channel>
+</rss>
