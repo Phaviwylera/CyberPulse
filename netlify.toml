@@ -1,0 +1,32 @@
+# Netlify configuration for CyberPulse
+[build]
+  publish = "."
+  command = "python3 tools/build.py"
+
+[[redirects]]
+  from = "/feed"
+  to = "/feed.xml"
+  status = 301
+
+[[redirects]]
+  from = "/rss"
+  to = "/feed.xml"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    X-Frame-Options = "SAMEORIGIN"
+
+[[headers]]
+  for = "/style.css"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/blog.js"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"

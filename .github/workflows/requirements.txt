@@ -1,0 +1,5 @@
+# Runtime dependencies for the CyberPulse daily generator (.github/workflows/main.yml).
+# The static site builder (tools/build.py) is pure standard library on purpose.
+google-genai>=1.0.0
+feedparser>=6.0.11
+requests>=2.32.0

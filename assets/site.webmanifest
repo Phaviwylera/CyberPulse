@@ -1,0 +1,27 @@
+{
+  "name": "CyberPulse — The Beat of the Digital World",
+  "short_name": "CyberPulse",
+  "description": "CyberPulse is a daily dispatch on cybersecurity, AI and technology policy — short, sharp briefings on the threats, tools and rules shaping the digital world.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0e12",
+  "theme_color": "#0a63d4",
+  "categories": [
+    "news",
+    "technology",
+    "security"
+  ],
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
